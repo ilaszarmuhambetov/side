@@ -49,7 +49,7 @@
             <li>Спорт</li>
         </ul>
  </section>
- <button class="redirect-button" onclick="window.location.href='https://ilaszarmuhambetov7.wixsite.com/ilyas'">Басқа сайтқа өту</button>
+ <button class="redirect-button" onclick="window.location.href='https://ilaszarmuhambetov7.wixsite.com/ilyas'">Wix сайтқа өту</button>
 
    <footer>
         <p>&copy; 2024 Жармұхамбетов Иляс. Барлық құқықтар қорғалған.</p>
