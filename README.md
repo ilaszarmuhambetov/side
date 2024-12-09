@@ -1,5 +1,4 @@
 # side
-<!DOCTYPE html>
 <html lang="kk">
 <head>
     <meta charset="UTF-8">
@@ -37,23 +36,24 @@
         <h1>Жармұхамбетов Иляс</h1>
         <p>Бұл менің жеке веб-бетім.</p>
     </header>
-<section>
+  <section>
         <h2>Өмірбаян</h2>
         <p>Мен веб-бағдарламалаумен айналысамын. HTML, CSS, және JavaScript тілдерін меңгерудемін.</p>
-    </section>
-  <section>
-        <h2>Менің қызығушылықтарым</h2>
+ </section>
+ <section>
+     <h2>Менің қызығушылықтарым</h2>
         <ul>
             <li>Веб-бағдарламалау</li>
             <li>Машина оқыту</li>
             <li>Кітап оқу</li>
             <li>Спорт</li>
         </ul>
-  </section>
+ </section>
+ <button class="redirect-button" onclick="window.location.href='https://ilaszarmuhambetov7.wixsite.com/ilyas'">Басқа сайтқа өту</button>
 
-<button class="redirect-button" onclick="window.location.href='https://ilaszarmuhambetov7.wixsite.com/ilyas'">Басқа сайтқа өту</button>
-  <footer>
+   <footer>
         <p>&copy; 2024 Жармұхамбетов Иляс. Барлық құқықтар қорғалған.</p>
     </footer>
 </body>
-</html>
+
+
